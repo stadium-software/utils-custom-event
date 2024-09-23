@@ -2,7 +2,7 @@
 
 Stadium controls support the most frequently needed events. Sometimes we may want to listen to events that are not natively supported by a control. This module provides a way to attach events to a select set of controls. 
 
-Video / screenshot
+![](images/View.gif)
 
 # Version
 Initial 1.0
