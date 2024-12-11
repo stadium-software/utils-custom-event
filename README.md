@@ -20,7 +20,7 @@ Initial 1.0
    3. Event
    4. RunOnce
 3. Drag a *JavaScript* action into the script
-4. Add the Javascript below into the JavaScript code property
+4. Add the Javascript below unchanged into the JavaScript code property
 ```javascript
 /* Stadium Script v1.0 https://github.com/stadium-software/utils-custom-event */
 let scope = this,
